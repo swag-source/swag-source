@@ -1,18 +1,18 @@
 # Hi there, I'm Ramiro Seltzer👋
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFF&center=true&vCenter=true&width=435&lines=Backend+Developer;Always+Learning+And+Pursuing+Knowledge!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFF&center=true&vCenter=true&width=435&lines=Backend+Developer;Always+Learning!" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
 I'm a passionate developer who loves building efficient and scalable solutions. I enjoy working across the full stack and have a strong foundation in both systems programming and modern web technologies.
 
-- 🔭 I'm currently working on **[Your Current Project]**
-- 🌱 I'm currently learning **[What you're learning]**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Software Development, System Design, or Tech**
-- 📫 How to reach me: **[your.email@example.com]**
-- ⚡ Fun fact: **[Something interesting about you]**
+- 🔭 I'm currently working on: **[Rshrtly URL shortener](https://github.com/swag-source/rshrtly)**
+- 🌱 I'm currently learning **Cloud Technologies**
+- 👯 I'm looking to collaborate on **Open Source Projects and System Architectures**
+- 💬 Ask me about **Software Development, System Design and Tech**
+- 📫 How to reach me: **ramiroseltzer@gmail.com**
+- ⚡ Fun fact: **I'm a professional cook and language enthusiast**
 
 ## 🛠️ Tech Stack
 
