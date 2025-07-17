@@ -1,6 +1,6 @@
 # Hi there, I'm Ramiro Seltzer👋
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFF&center=true&vCenter=true&width=435&lines=Backend+Developer;Always+Learning!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFF&center=true&vCenter=true&width=600&lines=Backend+Developer+💻;Always+Seeking+To+Learn!" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -8,11 +8,11 @@
 I'm a passionate developer who loves building efficient and scalable solutions. I enjoy working across the full stack and have a strong foundation in both systems programming and modern web technologies.
 
 - 🔭 I'm currently working on: **[Rshrtly URL shortener](https://github.com/swag-source/rshrtly)**
-- 🌱 I'm currently learning **Cloud Technologies**
-- 👯 I'm looking to collaborate on **Open Source Projects and System Architectures**
-- 💬 Ask me about **Software Development, System Design and Tech**
-- 📫 How to reach me: **ramiroseltzer@gmail.com**
-- ⚡ Fun fact: **I'm a professional cook and language enthusiast**
+- 🌱 I'm currently learning **Cloud Technologies**.
+- 👯 I'm looking to collaborate on **Open Source Projects and System Architecture**.
+- 💬 Ask me about **Software Development, System Design and Tech**.
+- 📫 How to reach me: **ramiroseltzer@gmail.com**.
+- ⚡ Fun fact: **I'm a professional cook and language enthusiast!**.
 
 ## 🛠️ Tech Stack
 
@@ -24,7 +24,6 @@ I'm a passionate developer who loves building efficient and scalable solutions. 
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 ### Frontend Development
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -45,7 +44,6 @@ I'm a passionate developer who loves building efficient and scalable solutions. 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
@@ -55,20 +53,15 @@ I'm a passionate developer who loves building efficient and scalable solutions. 
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
 ## 🌟 Featured Projects
-### 🚀 [Project Name 1](https://github.com/yourusername/project1)
-**Tech Stack:** TypeScript, React, Node.js, PostgreSQL, Docker
-- Brief description of what this project does
-- Key features and achievements
-- Any notable metrics (users, performance, etc.)
+### 🚀 [Rshrtly](https://github.com/yourusername/project1)
+**Tech Stack:** TypeScript, NextJS, Node.js, MySQL, Docker
+- Implemented a secure & efficient URL generation algorithm.
+- Efficient querying system and analytics.
+- Secure and fast database queries.
+- Total backend & server development.
 
-### 💻 [Project Name 2](https://github.com/yourusername/project2)
-**Tech Stack:** Python, FastAPI, PostgreSQL, Docker
-- Brief description of what this project does
-- Key features and achievements
-- Any notable metrics (users, performance, etc.)
-
-### 🔧 [Project Name 3](https://github.com/yourusername/project3)
-**Tech Stack:** C++, CMake, Docker
+### 💻 [Kaggle Hotel ML Sentiment Analysis](https://github.com/yourusername/project2)
+**Tech Stack:** Python, NLTK, Pandas, MatplotLib
 - Brief description of what this project does
 - Key features and achievements
 - Any notable metrics (users, performance, etc.)
@@ -77,17 +70,14 @@ I'm a passionate developer who loves building efficient and scalable solutions. 
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[YOUR_LINKEDIN])
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[YOUR_TWITTER])
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ramiroseltzer)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://[YOUR_PORTFOLIO])
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[YOUR_EMAIL])
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[ramiroseltzer@gmail.com])
 
 </div>
 
----
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=swag-source&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 <div align="center">
